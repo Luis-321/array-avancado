@@ -18,7 +18,7 @@
 // console.log(news);
 
 // var.split(); Transforma String em array.
-// var.join(); Une todos os valores de um array e transforma em uma string.
+// var.join(); Une todos os valores de um array e transforma em uma string...
 
 const nome = 'Luis Henrique Mendes Farias';
 const nomes = nome.split(' ');
